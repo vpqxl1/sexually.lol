@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  color: #fff;
+  padding: 0;
+}
+
+body {
+    background: #d0d4ec;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.card {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    width: 450px;
+    height: 500px;
+    border-radius: 26px;
+    background-color: rgba(255, 255, 255, 0.25);
+    transition: 0.3s;
+    box-shadow: 0 8px 25px rgba(146, 143, 207, 0.4), 0 4px 12px rgba(208, 212, 236, 0.4);
+}
+
+.card:hover {
+    transform: scale(1.03);
+}
+
+.banner {
+    display: flex;
+    position: absolute;
+    margin-top: 20px;
+    width: 400px;
+    height: 180px;
+    border-radius: 26px;
+    overflow: hidden;
+}
+
+.banner-video {
+    display: flex;
+    border-radius: 26px;
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.pfp img {
+    display: flex;
+    position: relative;
+    width: 100px;
+    height: 100px;
+    bottom: -130px;
+    right: 120px;
+    border: 3px solid rgba(144, 186, 224, 0.8);
+    border-radius: 9999px;
+    transition: 0.2s ease-in-out;
+}
+
+.pfp img:hover {
+    border-color: #90bae0;
+    box-shadow: 0 0 15px rgba(144, 186, 224, 0.6);
+    transform: scale(1.05);
+}
+
+.username {
+    display: flex;
+    position: absolute;
+    left: 35px;
+    bottom: 230px;
+}
+
+.username-text {
+    font-size: 25px;
+    font-family: Inter;
+    font-weight: bold;
+    background: linear-gradient(135deg, #90bae0, #c2e0ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.description {
+    display: flex;
+    position: absolute;
+    left: 35px;
+    bottom: 180px;
+    flex-direction: column;
+    gap: 3px;
+}
+
+.description-text {
+    font-size: 13px;
+    font-family: Inter;
+    font-weight: 600;
+    color: #5a5a7a;
+}
+
+.social-buttons {
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    align-items: center;
+    text-decoration: none;
+    padding: 15px 10px;
+    bottom: 90px;
+    gap: 10px;
+}
+
+.social-buttons a {
+    text-decoration: none;
+}
+
+.social-buttons a i {
+    font-size: 40px;
+    color: #90bae0;
+    transition: 0.3s ease-in-out;
+}
+
+.social-buttons a i:hover {
+    transform: scale(1.1);
+    color: #c2e0ff;
+    text-shadow: 0 0 10px rgba(194, 224, 255, 0.7);
+}

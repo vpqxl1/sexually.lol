@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="css/style.css">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>diskspoof</title>
+    <link rel="icon" type="image/png" href="img/favicon.png">
+    <link rel="shortcut icon" href="img/favicon.png" type="image/x-icon">
+    <script src="https://kit.fontawesome.com/56f3f17dd5.js" crossorigin="anonymous"></script>
+    <meta property="og:title" content="diskspoof">
+    <meta property="og:description" content="🕒 UTC+1">
+    <meta property="og:image" content="https://media1.tenor.com/m/pdX9YTI4_eoAAAAd/cat-cat-with-tongue.gif">
+    <meta property="og:url" content="https://diskspoof.xyz">
+    <meta name="theme-color" content="#ff0069">
+</head>
+<body>
+    <div class="card">
+        <div class="banner">
+            <video class="banner-video" autoplay muted loop playsinline>
+                 <source src="img/banner.mp4" type="video/mp4">
+            </video>
+        </div>
+        <div class="pfp">
+            <img class="pfp-img" src="img/pfp.gif">
+        </div>
+        <div class="username">
+            <h2 class="username-text">diskspoof</h2>
+        </div>
+        <div class="description">
+            <h3 class="description-text">staff @ vacban.wtf</h3>
+        </div>
+        <div class="social-buttons">
+            <a class="social-button tg" target="_blank" href="https://t.me/vpqxl">
+               <i class="fa-brands fa-telegram"></i>
+            </a>
+            <a class="social-button github" target="_blank" href="https://github.com/vpqxl1">
+               <i class="fa-brands fa-github"></i>
+            </a>
+            <a class="social-button discord" target="_blank" href="https://discord.com/users/1374741499366871042">
+               <i class="fa-brands fa-discord"></i>
+            </a>
+            <a class="social-button vacban" target="_blank" href="https://vacban.wtf/members/106650">
+               <i class="fa-solid fa-circle-user"></i>
+            </a>
+        </div>
+    </div>
+     <script src="js/tilt.js"></script>
+    <script>
+        VanillaTilt.init(document.querySelector(".card"), {
+	        max: 20,
+	        speed: 200,
+            reverse: true,
+            easing: "cubic-bezier(.03,.98,.52,.99)",
+            glare: false,
+	    });
+    </script>
+    <script>
+        const audio = new Audio('other/3stars.mp3');
+        audio.loop = true;
+        audio.volume = 0.1
+        audio.play().catch(() => {
+            console.log("Autoplay blocked, user interaction needed");
+        });
+    </script>
+</body>
+</html>
