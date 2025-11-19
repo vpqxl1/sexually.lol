@@ -44,3 +44,5 @@ https://vpqxl.lol
 ---
 
 *Staff @ vacban.wtf*
+
+Credits: https://github.com/sesjaphp/mybio
