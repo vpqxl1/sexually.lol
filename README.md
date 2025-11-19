@@ -1,51 +1,41 @@
 # diskspoof.xyz
 
-Gaming-themed personal page with tilt effects and smooth animations.
+## 🌐 Live Sites
 
+**Primary:**
+- 🔗 [diskspoof.beer](https://diskspoof.beer)
+- 🔗 [diskspoof.lol](https://diskspoof.lol) 
+- 🔗 [diskspoof.mom](https://diskspoof.mom)
 
-[![Live Site](https://img.shields.io/website?url=https%3A%2F%2Fdiskspoof.beer&label=diskspoof.beer&style=for-the-badge)](https://diskspoof.beer)
+**E-Sex Domains:**
+- 🔗 [e-sex.mom](https://e-sex.mom)
+- 🔗 [e-sex.monster](https://e-sex.monster)
+- 🔗 [e-sex.xyz](https://e-sex.xyz)
 
+**Rei Ayanami:**
+- 🔗 [reiayanami.beer](https://reiayanami.beer)
+- 🔗 [reiayanami.lol](https://reiayanami.lol)
+- 🔗 [reiayanami.mom](https://reiayanami.mom)
+- 🔗 [reiayanami.xyz](https://reiayanami.xyz)
 
-**Domains:** 
-https://diskspoof.beer
-https://diskspoof.lol
-https://diskspoof.mom
-https://e-sex.mom
-https://e-sex.monster
-https://e-sex.xyz
-https://harassment.mom
-https://jizz.mom
-https://rape.beer
-https://reiayanami.beer
-https://reiayanami.lol
-https://reiayanami.mom
-https://reiayanami.xyz
-https://sexualharassment.lol
-https://sexualharassment.mom
-https://sexualharassment.pics
-https://sexually.lol
-https://vpq.lol
-https://vpq.mom
-https://vpqxl.beer
-https://vpqxl.lol
+**VPQ Domains:**
+- 🔗 [vpq.lol](https://vpq.lol)
+- 🔗 [vpq.mom](https://vpq.mom)
+- 🔗 [vpqxl.beer](https://vpqxl.beer)
+- 🔗 [vpqxl.lol](https://vpqxl.lol)
 
-
-
-
-## Features
-
-- 3D tilt effects
-- Gaming aesthetic 
-- Social links
-- Responsive design
-
-## Tech
-
-- HTML/CSS/JS
-- VanillaTilt.js
-- GitHub Pages + Cloudflare
+**Other:**
+- 🔗 [sexualharassment.lol](https://sexualharassment.lol)
+- 🔗 [sexualharassment.mom](https://sexualharassment.mom)
+- 🔗 [sexualharassment.pics](https://sexualharassment.pics)
+- 🔗 [sexually.lol](https://sexually.lol)
+- 🔗 [harassment.mom](https://harassment.mom)
+- 🔗 [jizz.mom](https://jizz.mom)
+- 🔗 [rape.beer](https://rape.beer)
 
 ---
+
+Gaming-themed personal page with tilt effects.
 
 *Staff @ vacban.wtf*
 
