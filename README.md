@@ -2,6 +2,8 @@
 
 Gaming-themed personal page with tilt effects and smooth animations.
 
+[![Live Site](https://img.shields.io/website?url=https%3A%2F%2Fdiskspoof.beer&label=diskspoof.beer&style=for-the-badge)](https://diskspoof.beer)
+
 **Domains:** 
 https://diskspoof.beer
 https://diskspoof.lol
