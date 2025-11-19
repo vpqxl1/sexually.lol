@@ -1,4 +1,4 @@
-# sesjaphp
+# diskspoof.xyz
 
 Gaming-themed personal page with tilt effects and smooth animations.
 
